@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I go by Shubs and I am looking to pursue a career in data science.
